@@ -1,0 +1,10 @@
+"Please seek out the Elixir of Life to cure the king."
+"The elixir! My father is cured! Thank you!"
+"Return to me if you ever need healing."
+"You're looking much healthier now."
+"Find the Amulet of Vitality, across the river to the west."
+"Find the Sword of Strength - cross the bridge to the east, then head south."
+"Find the Tome of Agility, in the Land of Shadows."
+"You have found all the treasure I know of."
+
+   
